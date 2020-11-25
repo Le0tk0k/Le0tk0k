@@ -1,4 +1,4 @@
-# Leo Takaoka.
+# Leo Takaoka
 
 - 📝 Undergraduate student at University of Kobe
 - 💻 Software developer
